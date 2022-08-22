@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Tanish-Panwar-Rajput.
-- 🙋‍♂️ I'm a commerce student with technical knowledge, similar to "Jeff Bezos a commerce guy, who created AMAZON".
+- 🙋‍♂️ I'm a commerce student with technical knowledge.
 - Creating things with the power of Programming is my 💓(Love).
 - I love to spend my time ⌛  writing code.
